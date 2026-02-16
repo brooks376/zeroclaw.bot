@@ -1,9 +1,8 @@
 # ZeroClaw.bot — Static Website Source
 
-This repository contains the **static website source code** for **ZeroClaw** — the official landing page and documentation site at https://zeroclaw.bot/. :contentReference[oaicite:0]{index=0}
+This repository contains the **static website source code** for **ZeroClaw** — the official landing page and documentation site at https://zeroclaw.bot/. 
 
-ZeroClaw is a lightweight, security-first **autonomous AI agent framework** written in Rust, designed for fast startup, low memory usage, and efficient modular integration. :contentReference[oaicite:1]{index=1}
-
+ZeroClaw is a lightweight, security-first **autonomous AI agent framework** written in Rust, designed for fast startup, low memory usage, and efficient modular integration. 
 ---
 
 ## 🚀 About ZeroClaw
@@ -15,9 +14,7 @@ ZeroClaw is engineered as a **Rust-native, autonomous agent framework** focused 
 - **Modular provider, channel, memory, and tools integration**
 - **Broad compatibility with AI providers and platform channels**
 
-ZeroClaw is built as a compact single binary and supports high-efficiency runtimes in production and self-hosted environments. :contentReference[oaicite:2]{index=2}
-
----
+ZeroClaw is built as a compact single binary and supports high-efficiency runtimes in production and self-hosted environments. 
 
 ## 📦 Repository Contents
 
